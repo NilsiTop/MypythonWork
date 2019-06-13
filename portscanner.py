@@ -1,5 +1,6 @@
 """
 ** Name: ** Portscanner.py*
+** Created on ** 13 June 2019*
 ** Author: ** Nils Arne Topland*
 """
 
@@ -25,7 +26,7 @@ for x in range(1, 1025):
         print('*' 'Port', x, 'is open')
 
     else:
-        print('*' "port", x, "is open")
+        print("port", x, "is Closed")
 
 
 

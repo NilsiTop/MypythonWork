@@ -1,6 +1,5 @@
 """
 ** Name: ** Portscanner.py*
-** Created on ** 13 June 2019*
 ** Author: ** Nils Arne Topland*
 """
 
